@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/choice_selector/Assets/Scenes/player game 1.unity
+    guid: 11a175603edca74449097e7dc7a4a929
+  - enabled: 1
+    path: Assets/Scenes/spin.unity
+    guid: b5df5f9014044fe4a8bfd0f3b9bccae7
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: 238ebf1de5615b045b81c70c3ae075db
+  - enabled: 1
+    path: Assets/Scenes/Game 1.unity
+    guid: cc50a67df9fec3b44b94e2a4ff9d7b4e
+  - enabled: 1
+    path: Assets/Scenes/pays/tunisie.unity
+    guid: b2f63f21fae139846a3f14b682f41760
+  - enabled: 1
+    path: Assets/Scenes/pays/korea.unity
+    guid: fc10b38fa10c25a4eaf94d441c928396
+  - enabled: 1
+    path: Assets/Scenes/pays/mexico.unity
+    guid: 8a1eb8b14b59d364296d342ef246e6b6
+  - enabled: 1
+    path: Assets/Scenes/pays/peru.unity
+    guid: 96240ed653045ca489a7abae18d36941
+  - enabled: 1
+    path: Assets/Scenes/pays/russia.unity
+    guid: 1215666c47ebdb241bf04ac389091573
+  - enabled: 1
+    path: Assets/Scenes/pays/spain.unity
+    guid: f0f8ac8a2d91fa94ba752958c4e14a4b
+  - enabled: 1
+    path: Assets/Scenes/pays/sud.unity
+    guid: 39970a932e72f0e4fa712ddf94951448
+  - enabled: 1
+    path: Assets/Scenes/pays/australia.unity
+    guid: 0070c24d01bf01d4f8c0bef07fe1dafa
+  - enabled: 1
+    path: Assets/Scenes/pays/brazil.unity
+    guid: 3489a2fc722137f47a04bbe12ef98255
+  - enabled: 1
+    path: Assets/Scenes/pays/canada.unity
+    guid: a4bd658ec160023459903ff83e125df3
+  - enabled: 1
+    path: Assets/Scenes/pays/cuba.unity
+    guid: b5b637c5ff239354f8783da0b416ea09
+  - enabled: 1
+    path: Assets/Scenes/pays/egypte.unity
+    guid: d23f50f6c9b56854f80987b33b23efcf
+  - enabled: 1
+    path: Assets/Scenes/pays/iceland.unity
+    guid: fd8c3fa001a909b438f9a3a40f8d752c
+  - enabled: 1
+    path: Assets/Scenes/pays/iran.unity
+    guid: f416d6eb60baa25409f657084311b45e
+  - enabled: 1
+    path: Assets/Scenes/pays/iraq.unity
+    guid: 5f4d1fcdfc2771741b5008878285e011
+  - enabled: 1
+    path: Assets/Scenes/pays/kenya.unity
+    guid: 65147b5da95a54c479746fc7fbd993d2
+  - enabled: 1
+    path: Assets/Scenes/pays/suisse.unity
+    guid: 57746500c361ff54db5c2d2cdf4fe619
+  - enabled: 1
+    path: Assets/Scenes/pays/tanzania.unity
+    guid: dc635e84ed3d7ff429fdc6ab989764e4
+  - enabled: 1
+    path: Assets/choice_selector/Assets/Scenes/turning cards/Game 2.unity
+    guid: c6b71d6c91676214d9203ad183b30e41
+  - enabled: 1
+    path: Assets/choice_selector/Assets/Scenes/turning cards/loading.unity
+    guid: cf60ece08bf20da42b5aa887444d6ed7
+  - enabled: 1
+    path: Assets/choice_selector/Assets/Scenes/turning cards/loading1.unity
+    guid: b229259d58587724191c94bd2630e534
+  - enabled: 1
+    path: Assets/choice_selector/Assets/Scenes/turning cards/loading2.unity
+    guid: f678e87446c452a4b84d59905eeecc71
+  - enabled: 1
+    path: Assets/choice_selector/Assets/Scenes/turning cards/loading3.unity
+    guid: d76fb36185d3c8b40a76d655fe431335
+  - enabled: 1
+    path: Assets/choice_selector/Assets/Scenes/turning cards/retry01.unity
+    guid: 153bfa2deae389d4e9ed7a1965c3f257
+  - enabled: 1
+    path: Assets/choice_selector/Assets/Scenes/turning cards/retry02.unity
+    guid: 568f6c6b96653f74dad3c41b3c7cfea3
+  - enabled: 1
+    path: Assets/choice_selector/Assets/Scenes/turning cards/retry03.unity
+    guid: 99fc69b4c291981498c0eb8a48a2093a
+  - enabled: 1
+    path: Assets/choice_selector/Assets/Scenes/turning cards/retry04.unity
+    guid: 9158c9fe48c80d748abae2c23bc73866
+  - enabled: 1
+    path: Assets/choice_selector/Assets/Scenes/turning cards/t0.unity
+    guid: eaf31a4c992249c43831484ec269a7c1
+  - enabled: 1
+    path: Assets/choice_selector/Assets/Scenes/turning cards/t1.unity
+    guid: 5cfe6ace64785214d8537ac3fadc9e29
+  - enabled: 1
+    path: Assets/choice_selector/Assets/Scenes/turning cards/t2.unity
+    guid: 7c428802bae8e514eaaab839a88f197e
+  - enabled: 1
+    path: Assets/choice_selector/Assets/Scenes/turning cards/t3.unity
+    guid: 67a77321a9ae1694899dc65022f2a3b7
+  - enabled: 1
+    path: Assets/Scenes/pays/thailand.unity
+    guid: fe5e1bcae191842428bc8c01cca9a486
+  - enabled: 1
+    path: Assets/choice_selector/Assets/Scenes/turning cards/finishlevel1.unity
+    guid: 553f37bddf04b5b49bbbe1aa81316939
+  m_configObjects: {}

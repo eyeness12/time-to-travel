@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a59346cf28c90694588355edb58ce8c0, type: 3}
+  m_Name: QuestionData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: ' The statue Christ the Redeemer, one of the seven new wonders
+      of the world, was originally built in which country?'
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: fb633759982da1f479fd4810967dffc3, type: 3}
+    qustionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Spain
+    - Portugal
+    - France
+    - USA
+    correctAns: France
+  - questionInfo: What is the official language of Brazil?
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: fd0841c86b14fd54e9f899de0f1fd55e, type: 3}
+    qustionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Brazilian
+    - Portuguese
+    - Spanish
+    - English
+    correctAns: Portuguese
+  - questionInfo: 'Which fruit was '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: 961df6ec078e4d14aafe8051b2c1f323, type: 3}
+    qustionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Passion fruit
+    - Avocado
+    - Navel orange
+    - Banana
+    correctAns: Navel orange
